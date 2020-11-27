@@ -6,6 +6,10 @@
 
 * [HTML Web Developer](https://web.digitalinnovation.one/track/html-web-developer)
 
+### Feature Adicionada:
+
+* [Dark Mode](https://www.w3schools.com/Jsref/met_element_addeventlistener.asp)
+
 ### Ferramentas Utilizadas:
 
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
