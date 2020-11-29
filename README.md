@@ -19,12 +19,15 @@
 ### Requisitos:
 
 [![HTML Badge](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff&link=https://www.w3schools.com/html/)](https://www.w3schools.com/html/) 
-[![CSS Badge](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white&link=https://developer.mozilla.org/pt-BR/docs/Web/CSS)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[![CSS Badge](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3&logoColor=ffffff&link=https://developer.mozilla.org/pt-BR/docs/Web/CSS)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 ### Recursos CSS:
 
 * [nth-child](https://www.w3schools.com/cssref/sel_nth-child.asp)
 * [@media](https://developer.mozilla.org/pt-BR/docs/Web/CSS/@media)
+* [overflow](https://www.w3schools.com/css/css_overflow.asp)
+* [transition](https://www.w3schools.com/css/css3_transitions.asp)
+* [transform](https://www.w3schools.com/cssref/css3_pr_transform.asp)
 
 #### Contatos:
 
