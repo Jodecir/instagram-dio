@@ -25,6 +25,7 @@
 
 * [nth-child](https://www.w3schools.com/cssref/sel_nth-child.asp)
 * [@media](https://developer.mozilla.org/pt-BR/docs/Web/CSS/@media)
+* [:root](https://www.w3schools.com/cssref/sel_root.asp)
 * [overflow](https://www.w3schools.com/css/css_overflow.asp)
 * [transition](https://www.w3schools.com/css/css3_transitions.asp)
 * [transform](https://www.w3schools.com/cssref/css3_pr_transform.asp)
