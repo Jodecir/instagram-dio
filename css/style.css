@@ -1,3 +1,19 @@
+:root {
+  --azul: #0095f6;
+  --branco: #ffffff;
+  --brancoAlways: #ffffff;
+  --preto: #000000;
+  --cinza: #a0a0a0;
+}
+
+.dark:root {
+  --azul: #0095f6;
+  --branco: #000000;
+  --brancoAlways: #ffffff; 
+  --preto: #ffffff;
+  --cinza: #a0a0a0;
+}
+
 * {
   padding: 0;
   margin: 0;
@@ -10,7 +26,7 @@
 body {
   width: 100%;
   min-height: 100vh;
-  background-color: rgb(243, 243, 243);
+  background-color: var(--branco);
   margin: 0;
   padding: 0;
   display: flex;
@@ -51,10 +67,10 @@ body {
   justify-content: space-between;
   align-items: center;
   flex-direction: column;
-  background-color: #ffffff;
+  background-color: var(--brancoAlways);
   width: 100%;
   padding: 1.3rem 0;
-  border: 1px solid lightgray;
+  border: 1px solid #d3d3d3;
 }
 
 .group:nth-child(1) {
@@ -78,23 +94,23 @@ body {
 }
 
 .instagram-login {
-  background-color: #0095f6;
-  color: #ffffff;
+  background-color: var(--azul);
+  color: var(--branco);
   padding: 8px;
   border-radius: 4px;
 }
 
 .instagram-logout {
-  color: #0095f6;
+  color: var(--azul);
   margin-top: 1rem;
 }
 
 .not-account {
-  color: rgb(160, 160, 160);
+  color: var(--cinza);
 }
 
 .link-blue {
-  color: #0095f6;
+  color: var(--azul);
 }
 
 .get-the-app {
@@ -104,6 +120,10 @@ body {
   justify-content: center;
   width: 100%;
   padding: 1.3rem 0;
+}
+
+.get-the-app p {
+  color: var(--preto);
 }
 
 .download {
@@ -144,7 +164,7 @@ body {
 }
 
 .label {
-	background-color: #111;
+	background-color: var(--preto);
 	border-radius: 50px;
 	cursor: pointer;
 	display: flex;
@@ -158,7 +178,7 @@ body {
 }
 
 .label .ball {
-	background-color: #fff;
+	background-color: var(--branco);
 	border-radius: 50%;
 	position: absolute;
 	top: 2px;
@@ -174,17 +194,9 @@ body {
 }
 
 .fa-moon {
-	color: #0095f6;
+	color: var(--azul);
 }
 
 .fa-sun {
 	color: #f39c12;
-}
-
-body.dark {
-	background: #6e6e70;
-}
-
-.get-the-app.dark {
-	background: #292C35;
 }
