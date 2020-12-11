@@ -1,6 +1,6 @@
 # Descrição do Exercício
 
-#### Repositório da aula de Flexbox ensinada na plataforma da Digital Innovation One, cujo desafio era recriar a interface de login do Instagram, foi criada para o Bootcamp da DIO.
+Repositório da aula de Flexbox ensinada na plataforma da Digital Innovation One, cujo desafio era recriar a interface de login do Instagram, foi criada para o Bootcamp da DIO.
 
 ## Bootcamp
 
@@ -23,12 +23,13 @@
 
 ### Recursos CSS:
 
-* [nth-child](https://www.w3schools.com/cssref/sel_nth-child.asp)
 * [@media](https://developer.mozilla.org/pt-BR/docs/Web/CSS/@media)
+* [nth-child](https://www.w3schools.com/cssref/sel_nth-child.asp)
 * [:root](https://www.w3schools.com/cssref/sel_root.asp)
 * [overflow](https://www.w3schools.com/css/css_overflow.asp)
 * [transition](https://www.w3schools.com/css/css3_transitions.asp)
 * [transform](https://www.w3schools.com/cssref/css3_pr_transform.asp)
+* [:checked](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:checked)
 
 #### Contatos:
 
