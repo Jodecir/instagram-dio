@@ -1,6 +1,6 @@
 # Descrição do Exercício
 
-Repositório da aula de Flexbox ensinada na plataforma da Digital Innovation One, cujo desafio era recriar a interface de login do Instagram, foi criada para o Bootcamp da DIO.
+Repositório da aula de Flexbox ensinada na plataforma Digital Innovation One, cujo desafio era recriar a interface de login do Instagram.
 
 ## Bootcamp
 
