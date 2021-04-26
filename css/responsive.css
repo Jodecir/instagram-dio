@@ -1,12 +1,22 @@
 @media (max-width: 1024px) {
-    .instagram-wrapper {
-        width: 90%;
-    }
-  }
-  
-@media (max-width: 650px) {
 	.instagram-wrapper {
-		width: 90%;
+			width: 90%;
+	}
+}
+
+@media (max-width: 724px) {
+	.instagram-wrapper {
+			width: 95%;
+	}
+}
+
+@media (max-width: 650px) {
+	footer {
+		display: none;
+	}
+	
+	.instagram-wrapper {
+		width: 100%;
 	}
 
 	.instagram-phone {
@@ -20,4 +30,5 @@
 	.group {
 		border: 1px solid transparent;
 	}
+	
 }
