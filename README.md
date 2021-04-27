@@ -9,6 +9,7 @@ Repositório da aula de Flexbox ensinada na plataforma Digital Innovation One, c
 ### Feature Adicionada:
 
 * [Dark Mode](https://www.w3schools.com/Jsref/met_element_addeventlistener.asp)
+* [Slideshow](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/String/length)
 
 ### Ferramentas Utilizadas:
 
@@ -30,6 +31,7 @@ Repositório da aula de Flexbox ensinada na plataforma Digital Innovation One, c
 * [transition](https://www.w3schools.com/css/css3_transitions.asp)
 * [transform](https://www.w3schools.com/cssref/css3_pr_transform.asp)
 * [:checked](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:checked)
+* [opacity](https://www.w3schools.com/css/css_image_transparency.asp)
 
 #### Contatos:
 
